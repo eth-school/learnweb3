@@ -1,0 +1,12 @@
+{
+	"exercise": {
+		  "INTRODUCTION":           "入門"
+		, "WEB3":                   "WEB3"
+		, "PROVIDERS":              "PROVIDERS"
+		, "WEB3 UTILS":             "WEB3 UTILS"
+		, "CREATE ACCOUNT":         "CREATE ACCOUNT"
+		, "BALANCE":                "BALANCE"
+		, "‍ESTIMATE GAS":           "‍ESTIMATE GAS"
+		, "CONTRACTS DEPLOY":       "CONTRACTS DEPLOY"
+	}
+}

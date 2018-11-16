@@ -1,0 +1,22 @@
+{
+  "name": "learnweb3",
+  "description": "Learn Web3 by adventuring around in the terminal.",
+  "version": "2.6.1",
+  "repository": {
+    "url": "https://github.com/ConsenSys/learnweb3.git"
+  },
+  "author": "andrewdamelio",
+  "bin": {
+    "learnweb3": "./bin/learnweb3"
+  },
+  "main": "./index.js",
+  "preferGlobal": true,
+  "dependencies": {
+    "colors": "^1.0.3",
+    "diff": "^1.2.1",
+    "promise": "^7.1.1",
+    "web3": "^1.0.0-beta.36",
+    "workshopper-adventure": "^6.0.3"
+  },
+  "license": "MIT"
+}
