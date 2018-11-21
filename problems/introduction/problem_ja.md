@@ -1,15 +1,15 @@
 このワークショップで使うディレクトリを作りましょう。
 
-次のコマンドを実行して、`javascripting` ディレクトリを作ります。
+次のコマンドを実行して、`learnweb3` ディレクトリを作ります。
 
 ```bash
-mkdir javascripting
+mkdir learnweb3
 ```
 
-`javascripting` ディレクトリに移動しましょう。
+`learnweb3` ディレクトリに移動しましょう。
 
 ```bash
-cd javascripting
+cd learnweb3
 ```
 
 次のコマンドで `introduction.js` ファイルを作成します。
@@ -28,6 +28,6 @@ console.log('hello');
 ファイルを保存します。次のコマンドを実行し、あなたのプログラムが正しく動くか確認しましょう。
 
 ```bash
-javascripting verify introduction.js
+learnweb3 verify introduction.js
 ```
 

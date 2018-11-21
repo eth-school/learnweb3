@@ -1,15 +1,15 @@
-為了讓工作環境井然有序，我們首先來建立一個新資料夾。 
+為了讓工作環境井然有序，我們首先來建立一個新資料夾。
 
-執行下面的這段命令來建立一個名為 `javascripting` 的資料夾（當然你也可以使用其他你喜歡的名字）：
+執行下面的這段命令來建立一個名為 `learnweb3` 的資料夾（當然你也可以使用其他你喜歡的名字）：
 
 ```bash
-mkdir javascripting
+mkdir learnweb3
 ```
 
-進入 `javascripting` 資料夾：
+進入 `learnweb3` 資料夾：
 
 ```bash
-cd javascripting
+cd learnweb3
 ```
 
 建立一個名為 `introduction.js` 的檔案：
@@ -25,5 +25,5 @@ console.log('hello');
 儲存檔案，執行下面的命令來檢查你的程式是否正確：
 
 ```bash
-javascripting verify introduction.js
+learnweb3 verify introduction.js
 ```

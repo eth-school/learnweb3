@@ -1,15 +1,15 @@
 Para manter uma boa organização, vamos criar uma pasta para este workshop.
 
-Execute este comando para criar um diretório chamado `javascripting`:
+Execute este comando para criar um diretório chamado `learnweb3`:
 
 ```bash
-mkdir javascripting
+mkdir learnweb3
 ```
 
 Mude o diretório do console para a pasta que você acabou de criar:
 
 ```bash
-cd javascripting
+cd learnweb3
 ```
 
 Crie um arquivo chamado `introduction.js`:
@@ -17,7 +17,7 @@ Crie um arquivo chamado `introduction.js`:
 ```bash
 touch introduction.js
 ```
- ou se você estiver no Windows execute o comando: 
+ ou se você estiver no Windows execute o comando:
 
 ```bash
 type NUL > introduction.js
@@ -32,7 +32,7 @@ console.log('hello');
 Salve o arquivo, e então verifique se o seu programa está correto executando este comando:
 
 ```bash
-javascripting verify introduction.js
+learnweb3 verify introduction.js
 ```
 
 

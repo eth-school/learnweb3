@@ -1,15 +1,15 @@
-为了让工作环境整洁有序，我们首先来创建一个文件夹。 
+为了让工作环境整洁有序，我们首先来创建一个文件夹。
 
-运行下面的这段命令来创建一个名为 `javascripting` 的文件夹（你也可以使用你喜欢的其它名字）：
+运行下面的这段命令来创建一个名为 `learnweb3` 的文件夹（你也可以使用你喜欢的其它名字）：
 
 ```bash
-mkdir javascripting
+mkdir learnweb3
 ```
 
-进入 `javascripting` 文件夹：
+进入 `learnweb3` 文件夹：
 
 ```bash
-cd javascripting
+cd learnweb3
 ```
 
 创建一个名为 `introduction.js` 的文件：
@@ -25,5 +25,5 @@ console.log('hello');
 保存文件，运行下面的命令来检查你的程序是否正确：
 
 ```bash
-javascripting verify introduction.js
+learnweb3 verify introduction.js
 ```

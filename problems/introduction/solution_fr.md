@@ -16,4 +16,4 @@ Pour le moment nous affichons une **chaîne de caractères** dans le terminal : 
 
 Dans le prochain défi, nous allons nous focaliser sur l'apprentissage des **variables**.
 
-Exécutez `javascripting` dans la console pour choisir le prochain défi.
+Exécutez `learnweb3` dans la console pour choisir le prochain défi.

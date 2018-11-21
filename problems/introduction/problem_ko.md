@@ -1,16 +1,16 @@
 정돈을 위해 이 워크숍을 위한 폴더를 만듭시다.
 
 ```bash
-mkdir javascripting
+mkdir learnweb3
 ```
 
-위 명령어를 실행해 `javascripting`이라는 디렉터리(다른 이름이어도 됩니다)를 만드세요.
+위 명령어를 실행해 `learnweb3`이라는 디렉터리(다른 이름이어도 됩니다)를 만드세요.
 
 ```bash
-cd javascripting
+cd learnweb3
 ```
 
-을 통해 `javascripting` 폴더 안으로 디렉터리를 변경하세요.
+을 통해 `learnweb3` 폴더 안으로 디렉터리를 변경하세요.
 
 ```bash
 touch introduction.js
@@ -35,11 +35,11 @@ console.log('hello');
 파일을 저장하고 프로그램이 올바른지 다음 명령어를 실행해 확인하세요.
 
 ```bash
-javascripting verify introduction.js
+learnweb3 verify introduction.js
 ```
 
 하지만 튜토리얼 내내 편한 이름을 사용하셔도 됩니다. 모든 연습 문제에 `catsAreAwesome.js` 같은 이름을 사용하시고 싶다면, 그럴 수 있습니다. 그냥 다음 명령어를 실행해 확인하세요.
 
 ```bash
-javascripting verify catsAreAwesome.js
+learnweb3 verify catsAreAwesome.js
 ```

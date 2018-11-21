@@ -1,15 +1,15 @@
 For å holde ting organisert kan vi lage en ny katalog for denne workshopen.
 
-Kjør denne kommandoen for å lage en katalog som heter `javascripting` (eller noe annet om du ønsker):
+Kjør denne kommandoen for å lage en katalog som heter `learnweb3` (eller noe annet om du ønsker):
 
 ```bash
-mkdir javascripting
+mkdir learnweb3
 ```
 
-Bytt til `javascripting` katalogen:
+Bytt til `learnweb3` katalogen:
 
 ```bash
-cd javascripting
+cd learnweb3
 ```
 
 Lag en fil som heter `introduction.js`:
@@ -17,7 +17,7 @@ Lag en fil som heter `introduction.js`:
 ```bash
 touch introduction.js
 ```
- eller hvis du bruker Windows, 
+ eller hvis du bruker Windows,
 
 ```bash
 type NUL > introduction.js
@@ -33,5 +33,5 @@ console.log('hello');
 Lagre filen, deretter sjekker du om programmet er korrekt ved å kjøre følgende kommando:
 
 ```bash
-javascripting verify introduction.js
+learnweb3 verify introduction.js
 ```

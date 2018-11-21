@@ -16,4 +16,4 @@ console.log('hello');
 
 接下来的挑战里我们将学习到 **variables**，也就是**变量**。
 
-运行 `javascripting` 并选择下一个挑战。
+运行 `learnweb3` 并选择下一个挑战。

@@ -1,15 +1,15 @@
 Per mantenere le cose organizzate, creiamo una cartella per questo workshop.
 
-Esegui questo comando per creare una directory chiamata `javascripting` (o qualcos'altro a tuo piacere):
+Esegui questo comando per creare una directory chiamata `learnweb3` (o qualcos'altro a tuo piacere):
 
 ```bash
-mkdir javascripting
+mkdir learnweb3
 ```
 
-Cambia la directory di lavoro con la directory `javascripting`:
+Cambia la directory di lavoro con la directory `learnweb3`:
 
 ```bash
-cd javascripting
+cd learnweb3
 ```
 
 Crea un file dal nome `introduction.js`:
@@ -33,11 +33,11 @@ console.log('hello');
 Salva il file, quindi verifica che il tuo programma sia corretto eseguendo questo comando:
 
 ```bash
-javascripting verify introduction.js
+learnweb3 verify introduction.js
 ```
 
 Tra parentesi, lungo il corso di questa guida, puoi dare al file con cui stai lavorando il nome che desideri, quindi se vuoi usare un nome di file come `catsAreAwesome.js` per ciascun esercizio, puoi farlo tranquillamente. Assicurati tuttavia di eseguire il file giusto:
 
 ```bash
-javascripting verify catsAreAwesome.js
+learnweb3 verify catsAreAwesome.js
 ```

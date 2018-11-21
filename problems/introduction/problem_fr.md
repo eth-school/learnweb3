@@ -1,15 +1,15 @@
 Pour rester organisé, créons un dossier pour ce TP.
 
-Exécutez cette commande pour créer un dossier nommé `javascripting` (ou quelque chose d'autre si vous préférez) :
+Exécutez cette commande pour créer un dossier nommé `learnweb3` (ou quelque chose d'autre si vous préférez) :
 
 ```bash
-mkdir javascripting
+mkdir learnweb3
 ```
 
-Allez dans le dossier `javascripting` avec cette commande :
+Allez dans le dossier `learnweb3` avec cette commande :
 
 ```bash
-cd javascripting
+cd learnweb3
 ```
 
 Créez un fichier nommé `introduction.js` :
@@ -33,12 +33,12 @@ console.log('hello');
 Sauvegardez le fichier, puis vérifiez si votre programme s'exécute correctement avec cette commande :
 
 ```bash
-javascripting verify introduction.js
+learnweb3 verify introduction.js
 ```
 
 Au passage, tout au long de ce tutoriel, vous pouvez donner nommer les fichiers comme bon vous semble, donc si vous voulez utiliser quelque chose comme `lesChatsSontGeniaux.js` comme nom de fichier pour tous les exercices, vous pouvez. Assurez-vous juste d'exécuter :
 
 ```bash
-javascripting verify lesChatsSontGeniaux.js
+learnweb3 verify lesChatsSontGeniaux.js
 ```
 

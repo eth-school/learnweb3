@@ -3,7 +3,12 @@ node_modules
 .settings
 
 // Local Solutions
+introduction.js
+web3.js
+providers.js
+web3-utils.js
 accounts.js
 balance.js
-web3.js
-web3-utils.js
+hashing.js
+signing.js
+recovery.js
